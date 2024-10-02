@@ -21,16 +21,32 @@ This database manages user orders in an e-commerce system. It includes tables fo
 The following screenshots illustrate key operations performed on the database:
 
 1. **Table Creation**
+      - This screenshot shows the successful creation of the tables.
    ![CreatedTables](https://github.com/user-attachments/assets/640904ab-9635-4ac7-b021-8e6dbb90237e)
-   - This screenshot shows the successful creation of the tables.
 
-2. **Data Insertion**
-  
-   - This screenshot displays the successful insertion of data into the `Users`and 'Products' tables.
+3. **Data Insertion**
+     - This screenshot displays the successful insertion of data into the `Users`and 'Products' tables.
+    ![InsertedRows](https://github.com/user-attachments/assets/ec81244c-815d-422b-b564-df9fe391fdcf)
 
 3. **Data Update**
+     - This screenshot confirms that the email address for uwase sandreine was updated successfully.
+  BEFORE UPDATING HER EMAIL
+![BeforeUpdating](https://github.com/user-attachments/assets/5b418022-f3a3-4ae4-9764-f3be1bedfd41)
+AFTER UPDATING HER EMAIL
+![AfterUpdating](https://github.com/user-attachments/assets/31aaad0a-75f9-483a-8e7e-80118b45665e)
+4. **Data Deletion**
+     - This screenshot shows the successful deletion of an order from the `Orders` table
+  BEFORE DELETING AN ORDER FROM THE 'Orders' table.
+![BeforeDeletingOrder](https://github.com/user-attachments/assets/19eb5aeb-f884-4118-b732-339ca2be3e4b)
 
-   - This screenshot confirms that the email address for John Doe was updated successfully.  
+  AFTER DELETING ORDER
+![AfterDelete](https://github.com/user-attachments/assets/85e8c9a6-749e-4c38-ba99-407dde13b2a3)
+
+5. **Join Query Results**
+    - This screenshot demonstrates the results of a join query between `Users` and `Orders`, showing how data is related across tables
+![performJoins](https://github.com/user-attachments/assets/e5bc97b1-d914-4847-94d0-46a01ad6931e)
+
+   
    
 
    
