@@ -37,14 +37,24 @@ AFTER UPDATING HER EMAIL
 4. **Data Deletion**
      - This screenshot shows the successful deletion of an order from the `Orders` table
   BEFORE DELETING AN ORDER FROM THE 'Orders' table.
+
 ![BeforeDeletingOrder](https://github.com/user-attachments/assets/19eb5aeb-f884-4118-b732-339ca2be3e4b)
 
   AFTER DELETING ORDER
+  
 ![AfterDelete](https://github.com/user-attachments/assets/85e8c9a6-749e-4c38-ba99-407dde13b2a3)
 
 5. **Join Query Results**
     - This screenshot demonstrates the results of a join query between `Users` and `Orders`, showing how data is related across tables
 ![performJoins](https://github.com/user-attachments/assets/e5bc97b1-d914-4847-94d0-46a01ad6931e)
+
+6.  **Conceptual, Logical and Physical Data Model**
+  
+   ## Results Explanation
+The queries executed successfully demonstrate the ability to manage data within the database effectively. The relationships between tables are maintained through foreign keys.
+
+## Conclusion
+This project illustrates basic database operations including creating tables and managing data using SQL commands effectively.
 
    
    
