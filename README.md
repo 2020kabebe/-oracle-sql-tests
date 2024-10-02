@@ -2,6 +2,7 @@
 
 ## Problem Statement
 This database manages user orders in an e-commerce system. It includes tables for users, orders, products, order details, and user profiles.
+
 ## Tables Created
 - **Users**: Stores user information including ID, name, and email.
 - **Orders**: Contains order information linked to users.
@@ -49,6 +50,7 @@ AFTER UPDATING HER EMAIL
 ![performJoins](https://github.com/user-attachments/assets/e5bc97b1-d914-4847-94d0-46a01ad6931e)
 
 6.  **Conceptual, Logical and Physical Data Model**
+![diagram](https://github.com/user-attachments/assets/9d253b79-bb52-4f09-9b14-5763e75e5ba4)
   
    ## Results Explanation
 The queries executed successfully demonstrate the ability to manage data within the database effectively. The relationships between tables are maintained through foreign keys.
